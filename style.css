@@ -10,6 +10,11 @@
 	--standard-emphasis: hsl(0, 0, 15%);
 }
 
+@font-face{
+	font-family: 'wildBreath';
+	src: url(/fonts/The\ Wild\ Breath\ of\ Zelda.otf);
+}
+
 *{
 	letter-spacing: 1;
 	line-height: 2;
@@ -101,5 +106,13 @@ html{
 body{
 	padding: 10% 0 0 20%; 	/* Simple layout that might be jankety... but it (seems) so easy! */ 
 
+}
+
+/* Specific styles */
+
+span.BOTWfont{
+	font-family: wildBreath;
+	font-size: 1.8em;
+	line-height: 1.2;
 }
 
