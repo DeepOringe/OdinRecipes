@@ -96,17 +96,10 @@ html{
 	background-repeat: no-repeat;
 	background-size: cover;
 
-	/* overflow: hidden; */
 }
 
 body{
-	padding: 10% 0 0 20%; 
-	/* Simple layout that might be jankety... but it (seems) so easy! */ 
-
-	position: relative;
-	/* left: 20%; */
-
-	/* overflow: hidden; */
+	padding: 10% 0 0 20%; 	/* Simple layout that might be jankety... but it (seems) so easy! */ 
 
 }
 
