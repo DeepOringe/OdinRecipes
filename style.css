@@ -94,7 +94,10 @@ html{
 }
 
 body{
-	padding: 10% 0 0 20%; 	/* Simple layout that might be jankety... but it (seems) so easy! */ 
+	padding: 5% 0 0 20%; 	/* Simple layout that might be jankety... but it (seems) so easy! */ 
+
+	display: grid;
+	grid-gap: 2rem;
 
 }
 
