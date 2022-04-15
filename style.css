@@ -113,3 +113,17 @@ p.stewDescription{
 	font-style: italic;
 }
 
+img.ingredient{
+	width: 72px;
+}
+
+ul{
+	display: flex;
+	flex-wrap: wrap;
+}
+ul>li{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
