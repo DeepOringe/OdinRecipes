@@ -121,9 +121,10 @@ ul{
 	display: flex;
 	flex-wrap: wrap;
 }
-ul>li{
+ul>li, li>a{
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 }
+
 
