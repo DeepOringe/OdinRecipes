@@ -66,7 +66,7 @@ p{
 	line-height: 1.6;
 }
 
-li{
+li, img.match-li-styling{
 	color: rgba(255, 255, 255);
 	padding-left: 1rem;
 	margin-left: 2rem;
@@ -112,10 +112,6 @@ span.BOTWfont{
 
 p.stewDescription{
 	font-style: italic;
-}
-
-img.ingredient{
-	width: 72px;
 }
 
 ul{
